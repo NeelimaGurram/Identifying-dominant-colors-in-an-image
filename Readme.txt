@@ -1,0 +1,1 @@
+This project is used to identify the most domianant colors in an image using the k-means algorithm. we have to specify the path of input image and it gives us the various percentages of dominant colors in the given image.
